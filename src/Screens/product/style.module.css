@@ -1,0 +1,64 @@
+.fpart{
+    display: flex;
+    margin-top: 50px;
+}
+.sec{ 
+    background-image: url("../../Assets/Images/pbcg.jpg"); 
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%; 
+    margin-top: 3%;
+   
+
+    
+}
+.sec1 {
+    color: white;
+    width: 50% !important;
+    padding-left: 3%;
+    padding-right: 3%;
+    
+}
+.sec1 h3{
+    color: white;
+   
+    font-size: 2vw;
+    text-align: center;
+    margin-top: -10%;
+    
+}
+.sec1 p{
+    color: white;
+   font-size: 1.1vw;
+
+    text-align: center;
+    
+}
+.third{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.third img{
+    height: 40vh;
+    width:110%;
+    margin-top: -10%;
+    margin-left: -30%;
+}
+.third p{
+    text-align: left;
+    width: 50%;
+    margin-left: 2%;
+}
+.get{
+    display: flex;
+    text-align: center;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.get button{
+    margin-top: 30%;
+    margin-left: 20px;
+    margin-bottom: 40%;
+}
